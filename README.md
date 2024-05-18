@@ -32,8 +32,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/kigali-transportation-route-tracker.git
-   cd kigali-transportation-route-tracker
+   git clone https://github.com/nathanael250/kigali-transportation.gi
+   cd kigali-transportation
 
 In the project directory, you can run:
 
