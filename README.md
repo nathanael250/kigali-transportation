@@ -20,8 +20,6 @@ This project uses React, Google Maps API, and Leaflet to create an interactive m
 ## Technologies Used
 - React.js
 - Google Maps API
-- Leaflet
-- OpenStreetMap
 
 ## Features
 - **Interactive Map**: Displays the route and stops.
