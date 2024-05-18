@@ -32,7 +32,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/nathanael250/kigali-transportation.gi
+   git clone https://github.com/nathanael250/kigali-transportation.git
    cd kigali-transportation
 
 In the project directory, you can run:
